@@ -7,4 +7,8 @@ I wanted something tiny to sneak into shows and such. A full-sized dug-out just 
 
 # Any recommended print settings?
 
-I 3d-printed it from ABS at 100% infill. If you're not a fan of ABS, PLA would probably be fine.
+I 3d-printed it from ABS at 100% infill. If you're not a fan of ABS, PLA would probably be fine. 
+
+# Your design is stupid, and I've made it better.
+
+Great! Upload your changes and I'll gladly incorporate them.
