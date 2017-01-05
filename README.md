@@ -11,6 +11,10 @@ I wanted something tiny to sneak into shows and such. A full-sized dug-out just 
 
 I 3d-printed it from ABS at 100% infill. If you're not a fan of ABS, PLA would probably be fine. 
 
+# So wait, isn't 3d printed stuff like super bad for you?
+
+Probably! You really shouldn't use this if you have any concern for your health. But then again, if you're smoking """"""""""""TOBACCO"""""""""" and willing to use random products you find from internet strangers, you're probably not super duper concerned with a little carcinogen. That being said, if you have any concerns about your health from using a 3d-printed device for storing something you then injest, you definitely shouldn't use this. And even if you don't have those concerns, you still probably shouldn't use it. I don't know I'm just trying to cover my ass at this point. 
+
 # Your design is stupid, and I've made it better.
 
 Great! Upload your changes and I'll gladly incorporate them.
